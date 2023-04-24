@@ -1,22 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/ipc-desploma-seis-decimas-noviembre-17/6de4620e-10c3-4fd8-b6d0-e235d4a427d9",
-    "Respuesta": {
-        "Id": "6de4620e-10c3-4fd8-b6d0-e235d4a427d9",
-        "Url": "www.epdata.es/ipc-desploma-seis-decimas-noviembre-17/6de4620e-10c3-4fd8-b6d0-e235d4a427d9",
-        "Titulo": "Evolución del Índice de Precios de Consumo (IPC)",
-        "Subtitulo": "Variación interanual del IPC (adelantado)",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "IPC",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "%",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+﻿[
                         {
                             "Agno": 2015,
                             "Periodo": "Noviembre",
@@ -729,9 +711,5 @@
                             "Estado": null,
                             "Notas": null
                         }
-                    ]
-                }
-            ]
-        }
-    }
-}
+]
+                

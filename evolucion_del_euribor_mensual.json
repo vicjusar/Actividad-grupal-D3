@@ -1,22 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/evolucion-euribor-mensual/41fb76b7-6d49-46f5-b60d-ef95d3b311bc",
-    "Respuesta": {
-        "Id": "41fb76b7-6d49-46f5-b60d-ef95d3b311bc",
-        "Url": "www.epdata.es/evolucion-euribor-mensual/41fb76b7-6d49-46f5-b60d-ef95d3b311bc",
-        "Titulo": "Evolución del Euríbor mensual",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "Euribor a nivel mensual - Euribor mensual para España como país",
-                    "SonDatosNumericos": true,
-                    "Fuente": "Banco de España",
-                    "Clasificacion": null,
-                    "Unidad": "Euribor mensual",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+﻿[
                         {
                             "Agno": 1999,
                             "Periodo": "Enero",
@@ -2345,9 +2327,4 @@
                             "Estado": "Definitivo",
                             "Notas": ""
                         }
-                    ]
-                }
-            ]
-        }
-    }
-}
+]

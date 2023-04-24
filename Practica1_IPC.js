@@ -2,7 +2,7 @@
 console.log("estamos enpezando")
 
 
-d3.json("evolucion_del_euribor_mensual.json").then(function (datos) {
+d3.json("evolucion_del_indice_de_precios_de_consumo_(ipc).json").then(function (datos) {
       
     console.log("datos cargados")
      
@@ -10,6 +10,7 @@ d3.json("evolucion_del_euribor_mensual.json").then(function (datos) {
     
     // Vamos a crear listas con D3
     
+  
     var elementoUl = d3.select ("body").append("ul")
     elementoUl
         .selectAll ("li") // seleccion de tantas li como haga falta
